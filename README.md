@@ -1,7 +1,7 @@
 ### Hi there 👋
-- I am a Bioinformatician working in a clinical genetics laboratory at Michigan Medicine. I also like to call myself "The Human Genome Informaticist". To put simply, I digitally decode the data (A, T, G and C's) in patients' DNA to find information that can help with clinicians/doctors with a diagnosis/treatment.
+I am a Bioinformatician working in a clinical genetics laboratory at Michigan Medicine. I also like to call myself "The Human Genome Informaticist". To put simply, I digitally decode the DNA data (A, T, G and C's) in patient's DNA to find information that can help clinicians/doctors with a diagnosis/treatment.
 
-- I work on integrating cutting-edge Next-Generation Sequencing (NGS) methods/tools with our clinical bioinformatics workflows to analyze patient data. Most of my work is in the area of identifying Single Nucleotide Variants (SNV), Insertions and Deletions (InDels) and Copy Number Variations (CNV) that impact human health. 
+I work on integrating cutting-edge Next-Generation Sequencing (NGS) methods/tools with our clinical bioinformatics workflows to analyze patient data. Most of my work is in the area of identifying Single Nucleotide Variants (SNV), Insertions and Deletions (InDels) and Copy Number Variations (CNV) that impact human health. 
 
 - 🔭 I’m currently working on CallVars repository.
 - 🤔 I’m looking for advice with my CallVars repository. Happy to acknowledge any advice that I integrate with my workflow. Do check it out. 
