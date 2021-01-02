@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 💬 About me:
+💬 About me:
 - I am a Bioinformatician working in a clinical genetics laboratory at Michigan Medicine. I also like to call myself "The Human Genome Informaticist". 
 - To put simply, I digitally decode the data (A, T, G and C's) in patients' DNA to find helpful information that can help clinicians/doctors better treat their patients.
 - I work on integrating cutting-edge Next-Generation Sequencing (NGS) methods/tools with our clinical bioinformatics workflows to analyze patient data.
