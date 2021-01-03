@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - I am Amit (pronounced Ah-me-th), a bioinformatician working in a clinical genetics laboratory at Michigan Medicine. I digitally decode patient's DNA data (A's, T's, G's and C's) to find mistakes/erros that can help clinicians diagnose/treat their disease.  
+ - I am Amit (pronounced Ah-me-th), a bioinformatician working in a clinical genetics laboratory at Michigan Medicine. I digitally decode patient's DNA data (A's, T's, G's and C's) to find mistakes/erros that can help clinicians diagnose/treat human disease, particularly rare genetic disorders and hereditary cancers.  
 
  - I also like to call myself "Human Genome Informaticist" that is because ~99.9% of any two person's DNA is identical and my job is to identify remaining ~0.1% of regions in the patient's DNA and more specifically those regions that are responsible for their disease. 
 
