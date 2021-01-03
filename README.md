@@ -6,6 +6,13 @@ I integrate cutting-edge Next-Generation Sequencing (NGS) methods/tools with our
 
 I have considerable experience as a first author to get research published. I also work on collaborative research projects to help with genetic data analysis. I recently crossed 50 [citations](https://scholar.google.com/citations?user=3gs-sk8AAAAJ&hl=en)! YAY!
 
+In my previous positions 
+ - I have worked and published on protein-ligand docking and in silico drug designing studies.
+ - I have worked on building bioinformatics workflows for human RNA-seq data.
+ - I have worked with microbial and plant DNA data.
+ 
+Some more details...
+
 🔭 I’m currently working on CallVars repository.
 
 🤔 I’m looking for advice with my CallVars repository. Happy to acknowledge any advice that I integrate with my workflow. Do check it out. 
@@ -16,7 +23,4 @@ I have considerable experience as a first author to get research published. I al
 
 ⚡ Fun fact: I soon plan to sequence and analyze my own DNA, but I know I have a gene for having a sweet tooth.
 
-In my previous positions 
- - I have worked and published on protein-ligand docking and in silico drug designing studies.
- - I have worked on building bioinformatics workflows for human RNA-seq data.
- - I have worked with microbial and plant DNA data.
+
