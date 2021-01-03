@@ -8,7 +8,7 @@
 
  - I have considerable experience as a first author to get research published. I also work on collaborative research projects to help with genetic data analysis. I recently crossed 50 [citations](https://scholar.google.com/citations?user=3gs-sk8AAAAJ&hl=en)! YAY!
 
- - In my previous positions I have worked on building bioinformatics workflows for human RNA-seq data and slso for analyzing microbial and plant DNA data.
+ - In my previous positions I have worked on building bioinformatics workflows for analyzing human RNA-seq data and also for analyzing microbial and plant DNA data.
  
 Some more details...
 
