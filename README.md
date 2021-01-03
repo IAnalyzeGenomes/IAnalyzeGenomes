@@ -14,7 +14,8 @@ I work on integrating cutting-edge Next-Generation Sequencing (NGS) methods/tool
 ⚡ Fun fact: I soon plan to sequence and analyze my own DNA.
 
 
-  In my previous positions 
-    - I have worked on building bioinformatics workflows for human RNA-seq data.
-    - I have also worked with microbial and plant DNA data.
-    - I have worked and published on protein-ligand docking and in silico drug designing studies.
+In my previous positions 
+ - I have worked and published on protein-ligand docking and in silico drug designing studies.
+ - I have worked on building bioinformatics workflows for human RNA-seq data.
+ - I have worked with microbial and plant DNA data.
+
