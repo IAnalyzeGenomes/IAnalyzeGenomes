@@ -10,11 +10,11 @@ I have considerable experience as a first author to get research published. I al
 
 🤔 I’m looking for advice with my CallVars repository. Happy to acknowledge any advice that I integrate with my workflow. Do check it out. 
 
-📫 How to reach me: amit4biotek[at]gmail.com or DM on Twitter (@IAnalyzeGenomes)
+📫 How to reach me: Email me at amit4biotek[at]gmail.com or DM me on Twitter [@IAnalyzeGenomes](https://twitter.com/IAnalyzeGenomes)
 
 🌱 I’m currently learning to do Genomics in the Cloud (GITC). I have recently joined a GITC book club. 
 
-⚡ Fun fact: I soon plan to sequence and analyze my own DNA.
+⚡ Fun fact: I soon plan to sequence and analyze my own DNA, but I know I have a gene for having a sweet tooth.
 
 In my previous positions 
  - I have worked and published on protein-ligand docking and in silico drug designing studies.
