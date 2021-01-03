@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a bioinformatician working in a clinical genetics laboratory at Michigan Medicine. I also like to call myself "Human Genome Informaticist". To put simply, I digitally decode the DNA data (A, T, G and C's) in patient's DNA to find information that can help clinicians with a diagnosis or even treatment.
+I am a bioinformatician working in a clinical genetics laboratory at Michigan Medicine. I also like to call myself "Human Genome Informaticist". To put simply, I digitally decode the patient's DNA data (A, T, G and C's) to find information/mistakes their DNA that can help clinicians with a diagnosis or even treatment.
 
 I work on integrating cutting-edge Next-Generation Sequencing (NGS) methods/tools with our clinical bioinformatics workflows to analyze patient data. Most of my work is in the area of identifying Single Nucleotide Variants (SNV), Insertions and Deletions (InDels) and Copy Number Variations (CNV) that impact human health. 
 
