@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I am Amit (pronounced Ah-me-th), a bioinformatician working in a clinical genetics laboratory at Michigan Medicine. I also like to call myself "Human Genome Informaticist" that is because ~99.9% of any two person's DNA is identical and my job is to identify remaining ~0.1% of regions in the patient's DNA and more specifically those regions that are responsible for their disease. Thats like finding a needle in a haystack! Simply put, I digitally decode patient's DNA data to find mistakes/erros that can help clinicians diagnose the disease and help them come up with a treatment plan. 
+ I am Amit (pronounced Ah-me-th), a bioinformatician working in a clinical genetics laboratory at Michigan Medicine. I digitally decode patient's DNA data (A's, T's, G's and C's) to find mistakes/erros that can help clinicians diagnose the disease and help them come up with a treatment plan.  
 
-I integrate cutting-edge Next-Generation Sequencing (NGS) methods/tools with our clinical bioinformatics workflows for secondary and tertiary analysis to analyze patient's genomic data. Most of my work is in the area of identifying Single Nucleotide Variants (SNV), Insertions and Deletions (InDels) and Copy Number Variations (CNV). 
+ I also like to call myself "Human Genome Informaticist" that is because ~99.9% of any two person's DNA is identical and my job is to identify remaining ~0.1% of regions in the patient's DNA and more specifically those regions that are responsible for their disease. That's like finding a needle in a haystack!  
 
-I have considerable experience as a first author to get research published. I also work on collaborative research projects to help with genetic data analysis. I recently crossed 50 [citations](https://scholar.google.com/citations?user=3gs-sk8AAAAJ&hl=en)! YAY!
+ I integrate cutting-edge Next-Generation Sequencing (NGS) methods/tools with our clinical bioinformatics workflows for secondary and tertiary analysis to analyze patient's genomic data. Most of my work is in the area of identifying Single Nucleotide Variants (SNV), Insertions and Deletions (InDels) and Copy Number Variations (CNV). 
+
+ I have considerable experience as a first author to get research published. I also work on collaborative research projects to help with genetic data analysis. I recently crossed 50 [citations](https://scholar.google.com/citations?user=3gs-sk8AAAAJ&hl=en)! YAY!
 
 In my previous positions 
  - I have worked and published on protein-ligand docking and in silico drug designing studies.
