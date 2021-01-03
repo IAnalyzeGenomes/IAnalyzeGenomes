@@ -1,7 +1,10 @@
 ### Hi there 👋
-I am a bioinformatician working in a clinical genetics laboratory at Michigan Medicine. I also like to call myself "Human Genome Informaticist". To put simply, I digitally decode the patient's DNA data (A, T, G and C's) to find information/mistakes their DNA that can help clinicians with a diagnosis or even treatment.
 
-I work on integrating cutting-edge Next-Generation Sequencing (NGS) methods/tools with our clinical bioinformatics workflows to analyze patient data. Most of my work is in the area of identifying Single Nucleotide Variants (SNV), Insertions and Deletions (InDels) and Copy Number Variations (CNV) that impact human health. 
+I am Amit (pronounced Ah-me-th), a bioinformatician working in a clinical genetics laboratory at Michigan Medicine. I also like to call myself "Human Genome Informaticist" that is because I digitally decode patient's DNA data (made up of strings of four letters - A's, T's, G's and C's) to find mistakes/erros that can help clinicians diagnosis the disease or even treatment the disease.
+
+I work to integrate cutting-edge Next-Generation Sequencing (NGS) methods/tools with our clinical bioinformatics workflows to analyze patient's genomic data. Most of my work is in the area of identifying Single Nucleotide Variants (SNV), Insertions and Deletions (InDels) and Copy Number Variations (CNV) by building secondary and tertiary analysis workflows.
+
+I also work on collaborative research projects to help with genetic data analysis. I recently crossed 50 citations! Yay! https://scholar.google.com/citations?user=3gs-sk8AAAAJ&hl=en
 
 🔭 I’m currently working on CallVars repository.
 
