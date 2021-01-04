@@ -2,7 +2,7 @@
 
  - I am Amit (pronounced Ah-mi-th), a bioinformatician working in a clinical genetics laboratory at Michigan Medicine. 
  
- - I digitally decode patient's genetic data to find variants/mistakes that can help clinicians diagnose and/or treat human diseases, particularly rare genetic disorders and hereditary cancers. And therefore, I also like to call myself "Human Genome Informaticist". :) 
+ - I digitally decode patient's genetic data to find variants/mistakes that can help clinicians diagnose and/or treat human diseases, particularly rare genetic disorders and hereditary cancers. And therefore, I also like to call myself a "Human Genome Informaticist". :) 
  
  - Most of my work is in the area of identifying disease associated Single Nucleotide Variants (SNV), Insertions and Deletions (InDels) and Copy Number Variations (CNV). I integrate cutting-edge methods/tools for the same with our clinical bioinformatics workflows for secondary and tertiary analysis . 
  
@@ -14,7 +14,7 @@
 
 Some more details...
 
-🔭 I’m currently working on CallVars repository.
+🔭 I’m currently working on my CallVars repository which is based on GATK best practices and uses GATK v.4.1.9 for germline variant detection.
 
 🤔 I’m looking for advice with my CallVars repository. Happy to acknowledge any advice that I integrate with my workflow. 
 
