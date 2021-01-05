@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - I am Amit (pronounced Ah-mi-th), a bioinformatician working in a clinical genetics laboratory at Michigan Medicine. 
+ - I am Amit (pronounced Ah-mi-th), a bioinformatician working in a clinical genetics laboratory at Michigan Medicine where I help build Next Generation Sequencing (NGS) based DNA testing assays. 
  
  - I digitally decode patient's genetic data to find variants/mistakes that can help clinicians diagnose and/or treat human diseases, particularly rare genetic disorders and hereditary cancers. And therefore, I also like to call myself a "Human Genome Informaticist". :) 
  
