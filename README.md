@@ -1,14 +1,12 @@
 ### Hi there 👋
 
- - I am Amit (pronounced Ah-mi-th), a bioinformatician working in a clinical genetics laboratory at Michigan Medicine where I help build Next Generation Sequencing (NGS) based DNA testing assays. 
+ - I am Amit (pronounced Ah-mi-th), a bioinformatician working in a clinical genetics laboratory at Michigan Medicine where I help build Next Generation Sequencing (NGS) based DNA testing assays. I hold a Masters degree (MS) in Bioinformatics from Georgia Tech, USA and a Bachelors degree (BE) in Biotechnology from The Oxford college of Engineering, India. Overall, I have been using Bioinformatics techniques for over a decade now in an effort to improve human health. 
  
- - I digitally decode patient's genetic data to find variants/mistakes that can help clinicians diagnose and/or treat human diseases, particularly rare genetic disorders and hereditary cancers. And therefore, I also like to call myself a "Human Genome Informaticist". :) 
+ - I digitally decode patient's genetic data to find variants/mistakes that can help clinicians diagnose and/or treat human diseases, particularly rare genetic disorders and hereditary cancers. Most of my work is in the area of identifying disease associated Single Nucleotide Variants (SNV), Insertions and Deletions (InDels) and Copy Number Variations (CNV) by integrating cutting-edge methods/tools with our clinical bioinformatics workflows. And therefore, I also like to call myself a "Human Genome Informaticist". :) 
  
- - Most of my work is in the area of identifying disease associated Single Nucleotide Variants (SNV), Insertions and Deletions (InDels) and Copy Number Variations (CNV). I integrate cutting-edge methods/tools for the same with our clinical bioinformatics workflows for secondary and tertiary analysis . 
+ - I have considerable experience as a first author to get research published in the area of insilico drug designing and protein modelling. I also work on collaborative research projects to help with genetic data analysis which gets published in reputed journals. I recently crossed [50 citations](https://scholar.google.com/citations?user=3gs-sk8AAAAJ&hl=en)! YAY! (Not a whole lot but still something to celebrate!)
  
- - I have considerable experience as a first author to get research published. I also work on collaborative research projects to help with genetic data analysis. I recently crossed [50 citations](https://scholar.google.com/citations?user=3gs-sk8AAAAJ&hl=en)! YAY! (Not a whole lot but something to celebrate!)
- 
- - My experience also includes analyzing human RNA-seq data, microbial and plant genetic data. I have also worked on insilico drug designing studies and protein modelling. Overall, I have been using Bioinformatics techniques for over a decade in an effort to improve human health. 
+ - My experience from previous roles (Research Assistant at Georgia Tech, Boinformatics Intern at Winship Cancer Institute at Emory University and Bioinformatics Scripter at Monsanto) includes analyzing human RNA-seq data, microbial and plant genetic data. 
  
  - The human genome is extraordinarily facinating and I am always excited to learn more about it and to improve the genetic data analysis methods!
 
