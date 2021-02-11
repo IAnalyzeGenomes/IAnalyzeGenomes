@@ -6,8 +6,6 @@
  
  - The workflows decode patient's genetic data to find variants/mistakes that can help in disease diagnosis/treatment or identifying disease risk.
  
- - I hold a Masters degree (MS) in Bioinformatics from Georgia Tech, USA and a Bachelors degree (BE) in Biotechnology from The Oxford college of Engineering, India. 
- 
  - I find the human genome extraordinarily facinating and am always excited to learn more about it and to improve the genetic data analysis methods!
 
 Some more details...
