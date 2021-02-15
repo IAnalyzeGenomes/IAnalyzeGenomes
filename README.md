@@ -1,12 +1,10 @@
 ### Hi there 👋
 
- - I am Amit (pronounced Ah-mi-th), a bioinformatician working in a clinical genetics laboratory at Michigan Medicine.
- 
- - I develop automated, scalable, reproducible and highly accurate workflows/pipelines that analyze Next-Generation Sequencing (NGS) data. 
- 
- - The workflows/pipelines decode genetic data of an individual to find variants/mistakes that can help in their disease diagnosis, treatment or risk prediction.
- 
- - I find the human genome extraordinarily facinating and am always excited to learn more about it and the methods that improve its analysis!
+ - I am Amit (pronounced Ah-mi-th), a bioinformatician digitally analyzing human genomes to improve human health.
+ - I develop automated, scalable, reproducible and highly accurate genomic data analysis workflows.
+ - These workflows find mistakes in the individual's genome. Its like finding a needle in a haystack. 
+ - These mistakes can be crucial in predicting a person’s disease risk or it can greatly help with a disease diagnosis/treatment.
+ - The human genome extraordinarily fascinating and I am always excited to learn more about it.
 
 Some more details...
 
