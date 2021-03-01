@@ -1,9 +1,13 @@
 ### Hi there 👋
 
  🧬 I am Amit, a bioinformatician digitally analyzing human genomes to improve human health.
+ 
  🧬 I develop automated, scalable, reproducible and highly accurate genomic data analysis workflows.
+ 
  🧬 These workflows find mistakes in the individual's genome. Its like finding a needle in a haystack. 
+ 
  🧬 These mistakes can be crucial in predicting a person’s disease risk or it can greatly help with a patients disease diagnosis/treatment.
+ 
  🧬 The human genome is extraordinarily fascinating and I am always excited to learn more about it.
 
 Some more details...
