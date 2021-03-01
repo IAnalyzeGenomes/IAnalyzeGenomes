@@ -6,7 +6,7 @@
   
    🧬 These workflows find mistakes in the individual's genome. Its like finding a needle in a haystack. 
   
-   🧬 These mistakes can be crucial in predicting a person’s disease risk or it can greatly help with a patients disease diagnosis/treatment.
+   🧬 These mistakes can be crucial in predicting a persons disease risk or helping with a patients diagnosis/treatment.
   
    🧬 The human genome is extraordinarily fascinating and I am always excited to learn more about it.
 
