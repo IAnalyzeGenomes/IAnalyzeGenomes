@@ -18,4 +18,4 @@ Some more details...
 
 ⚡ Fun fact: I soon plan to sequence and analyze my own DNA. I do know that I have a gene for having a sweet tooth tough.
 
-📫 How to reach me: Email me at amit4biotek[at]gmail.com or DM me on Twitter [@IAnalyzeGenomes](https://twitter.com/IAnalyzeGenomes).
+📫 How to reach me: Email me at amit4biotek[at]gmail[dot]com or DM me on Twitter [@IAnalyzeGenomes](https://twitter.com/IAnalyzeGenomes).
