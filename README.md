@@ -6,7 +6,7 @@
 🧬 These mistakes can be crucial in predicting a persons disease risk or helping with a patients disease diagnosis/treatment.\
 🧬 The human genome is extraordinarily fascinating and I am always excited to learn more about it.
 
-👨‍💻  🧬 Some more details 👨‍💻 🧬  
+👨‍💻   Some more details 👨‍💻 
 
 💪  I’m currently working on my [CallVars](https://github.com/IAnalyzeGenomes/CallVars) repository. Any feedback is welcome and much appreciated!\
 💪  I’m currently learning to do [Genomics in the Cloud](https://www.amazon.com/Genomics-Cloud-GATK-Spark-Docker/dp/1491975199/ref=sr_1_1?crid=LXSZSO8B3D7J&dchild=1&keywords=genomics+in+the+cloud&qid=1609662594&s=books&sprefix=genomics+in+%2Caps%2C183&sr=1-1) (GITC) and am a member of [GITC book club](https://www.youtube.com/channel/UCtdwGKTSsRQZgAO6D79lSPA). \
