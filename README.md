@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🧬 I am Amit (pronounced Ah-mi-th), a bioinformatician digitally analyzing human genomes to improve human health.\
-🧬 I develop automated, scalable, reproducible and highly accurate genomic data analysis workflows.\
+🧬 I develop fast, automated, scalable, reproducible and highly accurate genomic data analysis workflows.\
 🧬 Workflows find mistakes in a persons genome which is ~6 billion bases. It's like finding a needle in a haystack.\
 🧬 These mistakes can be crucial in predicting a persons disease risk or helping with a patients disease diagnosis/treatment.\
 🧬 The human genome is extraordinarily fascinating and I am always excited to learn more about it.
